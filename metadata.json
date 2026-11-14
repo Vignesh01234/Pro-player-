@@ -1,0 +1,6 @@
+{
+  "name": "ShuttlePro Tournament",
+  "description": "Badminton tournament manager with BWF live scoring, court scheduling, brackets, and payment & club split ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

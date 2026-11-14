@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShuttlePro Tournament</string>
+    <string name="nav_dashboard">Arena</string>
+    <string name="nav_roster">Players</string>
+    <string name="nav_schedule">Fixtures</string>
+    <string name="nav_live">Live BWF</string>
+    <string name="nav_finance">Ledger</string>
+    <string name="hero_banner_desc">Badminton championship arena banner</string>
+    <string name="export_share_title">Export &amp; Share Reports</string>
+    <string name="add_player_cta">Register Player</string>
+    <string name="create_team_cta">Pair Team</string>
+    <string name="generate_fixtures_cta">Generate Fixtures</string>
+    <string name="add_transaction_cta">Record Entry / Expense</string>
+    <string name="shuttle_split_cta">Shuttle Split Calculator</string>
+    <string name="download_app_cta">Download App</string>
+    <string name="download_backup_cta">Download Backup JSON</string>
+</resources>
